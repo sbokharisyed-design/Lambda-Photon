@@ -1,5 +1,6 @@
 # Lambda-Photon
 Coding Language based on Lambda Calculus focused on optimization
+Early Release expect bugs, variables are not mutable
 
 ## Syntax
 
@@ -74,5 +75,9 @@ for i in 0..10 {
 // Single line comment
 ```
 
-
+### Usage
+```
+./photon hello.  lp -o hello
+./hello
+```
 
