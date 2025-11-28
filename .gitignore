@@ -1,0 +1,30 @@
+# Build artifacts
+build/
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+a.out
+
+# LLVM IR output
+*.ll
+*.bc
+
+# Examples folder
+examples/
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
